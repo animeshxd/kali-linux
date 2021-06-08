@@ -39,4 +39,5 @@
       sudo dpkg -i /path/to/package.deb
       ```
  
-
+- ### Uninstall Unused
+  <https://github.com/epinna/Unusedpkg>
